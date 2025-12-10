@@ -12,7 +12,7 @@ Outils Utilisés
  Configuration Réseau
 | Machine | IP | Rôle |
 |---------|----|-----|
-| Kali Linux | 192.168.157.133 | Attaquant |
+| Kali Linux | 192.168.157.135 | Attaquant |
 | Metasploitable 2 | 192.168.157.133 | Cible |
 
  Étapes Réalisées
