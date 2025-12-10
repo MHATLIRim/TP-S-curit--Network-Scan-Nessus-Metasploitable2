@@ -23,11 +23,11 @@ Outils Utilisés
 5. Analyse des vulnérabilités découvertes
 
 
-Principales Vulnérabilités Trouvées
+Principales Vulnérabilités Trouvées (quelques vulnérabilités)
 | Vulnérabilité | Gravité | Port |
 |--------------|---------|------|
-| Backdoor | Critique | 9 |
-|web servers |  High | 4 |
+| Backdoor | Critique | 20 |
+|web servers |  High | 10 |
 Low |service detection| 6
 
 
